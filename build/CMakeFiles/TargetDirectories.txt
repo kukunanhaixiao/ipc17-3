@@ -1,0 +1,3 @@
+/home/ipc17/c/text/build/CMakeFiles/test1.dir
+/home/ipc17/c/text/build/CMakeFiles/edit_cache.dir
+/home/ipc17/c/text/build/CMakeFiles/rebuild_cache.dir
